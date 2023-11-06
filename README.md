@@ -1,6 +1,6 @@
 ### SEJA BEM-VINDO AO MEU PERFIL 🖤
 
-- Meu nome é Claudia Cermeno
+Meu nome é Claudia Cermeno
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaSript
